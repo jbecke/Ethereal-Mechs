@@ -1,4 +1,4 @@
-#Ethereal Mechs
+# Ethereal Mechs
 
 <img src="https://github.com/jbecke/Ethereal-Mechs/blob/master/LOGO.jpg" alt="Ethereal Mechs">
 
