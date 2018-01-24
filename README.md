@@ -1,4 +1,4 @@
-[[LOGO.jped|alt=Ethereal Mechs]]
+[[LOGO.jpeg|alt=Ethereal Mechs]]
 
 Work-in-progress. This is a project by Tim Clancy and Jacob Beckerman, students at the Univeristy of Pennsylvania.
 
