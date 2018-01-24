@@ -1,3 +1,5 @@
+#Ethereal Mechs
+
 <img src="https://github.com/jbecke/Ethereal-Mechs/blob/master/LOGO.jpg" alt="Ethereal Mechs">
 
 Work-in-progress. This is a project by Tim Clancy and Jacob Beckerman, students at the Univeristy of Pennsylvania.
